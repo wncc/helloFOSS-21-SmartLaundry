@@ -12,7 +12,7 @@ This app is an attempt to solve this problem, and to see if we can manage the wa
 
 ## The Application
 ### Frontend
-The frontend of the app is to be written in flutter in order to make it cross-platform. You can find the User Interface of the app [here](https://www.figma.com/file/ImaZYVAWBIirNgch7EkSro/SmartLaundry?node-id=0%3A1). This is the basic idea of the user interface which is to be inplemented in the app. You are open to change the UI and think of some more elements which can be added to make the app more useful, or you can create a new one if you want.
+The frontend of the app is to be written in flutter in order to make it cross-platform. You can find the User Interface of the app [here](https://tinyurl.com/smartlaundryui). This is the basic idea of the user interface which is to be inplemented in the app. You are open to change the UI and think of some more elements which can be added to make the app more useful, or you can create a new one if you want.
 
 **Description of the activities in the app** - 
 * **Login/Signup** - Screens of loggin in and signing up for the app
