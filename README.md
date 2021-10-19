@@ -10,7 +10,7 @@ Washing your clothes in a propper manner in hostels is a big deal. It is very di
 
 This app is an attempt to solve this problem, and to see if we can manage the washing machines in the hostels efficiently with an app. This is the best time for it to be created as people are contributing to open source and their minds are filled with creative ideas. This is also helping beginners to learn and start contributing.
 
-## The Project
+## The Application
 ### Frontend
 The frontend of the app is to be written in flutter in order to make it cross-platform. You can find the User Interface of the app [here](https://www.figma.com/file/ImaZYVAWBIirNgch7EkSro/SmartLaundry?node-id=0%3A1). This is the basic idea of the user interface which is to be inplemented in the app. You are open to change the UI and think of some more elements which can be added to make the app more useful, or you can create a new one if you want.
 
